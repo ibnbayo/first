@@ -1,2 +1,2 @@
 # first
-Tesla clone
+This is a clone of the Tesla landing page.
