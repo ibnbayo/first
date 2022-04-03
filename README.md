@@ -1,6 +1,5 @@
 # Tesla Website Clone
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+(./images/screenshot.jpg)
 
 ## Overview
 This is a clone of the Tesla landing page using HTML, CSS and Javascript.
@@ -22,13 +21,9 @@ LIVE LINK: https://ibnbayo.github.io/first/
 Live version:
 [Tesla Landing Page](https://ibnbayo.github.io/first/)
 
-From the repo:
-  1.Clone this project locally
-  2.Load via any browser
-
-
-## Screenshots
-(./images/screenshot.jpg)
+From the repo:<br/>
+  1.Clone this project locally<br/>
+  2.Load via any browser<br/>
 
 
 
