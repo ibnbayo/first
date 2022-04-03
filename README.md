@@ -1,5 +1,5 @@
 # Tesla Website Clone
-(./images/screenshot.jpg)
+(/images/screenshot.jpg)
 
 ## Overview
 This is a clone of the Tesla landing page using HTML, CSS and Javascript.<br/>
@@ -22,8 +22,8 @@ Live version:
 [Tesla Landing Page](https://ibnbayo.github.io/first/)
 
 From the repo:<br/>
-  -Clone this project locally<br/>
-  -Load via any browser<br/>
+  *Clone this project locally<br/>
+  *Load via any browser<br/>
 
 
 
