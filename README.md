@@ -1,5 +1,5 @@
 # Tesla Website Clone
-[Screenshot](/images/screenshot.jpg)
+[![screenshot.jpg](https://i.postimg.cc/x8RrC86Z/screenshot.jpg)](https://postimg.cc/y3kpp14h)
 
 ## Overview
 This is a clone of the Tesla landing page using HTML, CSS and Javascript.<br/>
